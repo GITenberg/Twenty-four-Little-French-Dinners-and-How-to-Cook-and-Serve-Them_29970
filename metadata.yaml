@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '34277'
     url: http://www.gutenberg.org/2009/agents/34277
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29970#Twenty-four-Little-French-Dinners-and-How-to-Cook-and-Serve-Them
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2009-09-12'
 gutenberg_type: Text
