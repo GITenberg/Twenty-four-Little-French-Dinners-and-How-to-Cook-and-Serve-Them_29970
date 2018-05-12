@@ -1,0 +1,26 @@
+_repo: Twenty-four-Little-French-Dinners-and-How-to-Cook-and-Serve-Them_29970
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moore, Cora
+    gutenberg_agent_id: '34277'
+    url: http://www.gutenberg.org/2009/agents/34277
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2009-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29970'
+  lccn: '19016191'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking, French'
+title: Twenty-four Little French Dinners and How to Cook and Serve Them
+url: http://www.gutenberg.org/ebooks/29970
